@@ -89,8 +89,6 @@ The study combines **Python-based data wrangling and visualization** with **exec
 📁 ibm-data-analyst-capstone/
 │
 ├── 📄 README.md
-├── 📁 data/
-│   └── dataset.csv
 │
 ├── 📁 notebooks/
 │   └── analysis.ipynb
