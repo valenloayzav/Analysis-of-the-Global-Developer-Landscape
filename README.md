@@ -70,6 +70,16 @@ The study combines **Python-based data wrangling and visualization** with **exec
 
 ---
 
+## 🏁 Conclusions
+	•	The modern developer toolkit is defined by open-source, web, and cloud technologies.
+	•	A generational shift is underway toward modern, high-performance languages like Go, Rust, and TypeScript.
+	•	Companies must continue investing in open-source ecosystems to attract and retain top technical talent.
+
+## 🏷️ Tags
+#Python #IBM #Cognos #DataAnalysis #StackOverflowSurvey #DataVisualization #Dashboard #CapstoneProject
++
+---
+
 ## 🗂️ Repository Structure
 ```bash
 📁 ibm-data-analyst-capstone/
@@ -95,12 +105,3 @@ The study combines **Python-based data wrangling and visualization** with **exec
     ├── demographics.png
     └── job_postings.png
 
----
-
-## 🏁 Conclusions
-	•	The modern developer toolkit is defined by open-source, web, and cloud technologies.
-	•	A generational shift is underway toward modern, high-performance languages like Go, Rust, and TypeScript.
-	•	Companies must continue investing in open-source ecosystems to attract and retain top technical talent.
-
-## 🏷️ Tags
-#Python #IBM #Cognos #DataAnalysis #StackOverflowSurvey #DataVisualization #Dashboard #CapstoneProject
