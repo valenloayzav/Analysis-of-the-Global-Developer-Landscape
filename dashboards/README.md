@@ -7,7 +7,7 @@ The visualizations were created in **IBM Cognos Analytics** to explore insights 
 
 ## 🔗 Dashboard Link
 You can view the interactive version of the dashboards here:  
-👉 [IBM Cognos Dashboard – Developer Trends] [(https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fcapstone&action=view&mode=dashboard&subView=model00000199a6376cc3_00000006)]
+👉 [IBM Cognos - Developer Trends] (https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fcapstone&action=view&mode=dashboard&subView=model00000199a6376cc3_00000006)
 
 ---
 
