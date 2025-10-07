@@ -99,10 +99,5 @@ The study combines **Python-based data wrangling and visualization** with **exec
 │
 ├── 📁 presentation/
 │   └── DataAnalystPresentation.pdf
-│
-└── 📁 visuals/
-    ├── languages_trend.png
-    ├── databases_trend.png
-    ├── demographics.png
-    └── job_postings.png
+
 
