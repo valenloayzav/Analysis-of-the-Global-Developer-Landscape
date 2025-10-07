@@ -45,10 +45,10 @@ The study combines **Python-based data wrangling and visualization** with **exec
 
 ## 📈 Dashboards
 **IBM Cognos Dashboard (Interactive View):**  
-🔗 [Click here to open the dashboard](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fcapstone&action=view&mode=dashboard&subView=model00000199a6376cc3_00000006)
+🔗 [https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fcapstone&action=view&mode=dashboard&subView=model00000199a6376cc3_00000006]
 
-**Dashboard Preview:**  
-![Cognos Dashboard](dashboards/cognos-dashboard.png)
+### 📊 Project Presentation
+[DataAnalystPresentation.pdf](https://github.com/user-attachments/files/22732716/DataAnalystPresentation.pdf)
 
 ---
 
@@ -95,10 +95,10 @@ The study combines **Python-based data wrangling and visualization** with **exec
     ├── demographics.png
     └── job_postings.png
 
-🏁 Conclusions
+## 🏁 Conclusions
 	•	The modern developer toolkit is defined by open-source, web, and cloud technologies.
 	•	A generational shift is underway toward modern, high-performance languages like Go, Rust, and TypeScript.
 	•	Companies must continue investing in open-source ecosystems to attract and retain top technical talent.
 
-🏷️ Tags
+## 🏷️ Tags
 #Python #IBM #Cognos #DataAnalysis #StackOverflowSurvey #DataVisualization #Dashboard #CapstoneProject
