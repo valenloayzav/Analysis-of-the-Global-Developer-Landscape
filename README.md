@@ -95,6 +95,8 @@ The study combines **Python-based data wrangling and visualization** with **exec
     ├── demographics.png
     └── job_postings.png
 
+---
+
 ## 🏁 Conclusions
 	•	The modern developer toolkit is defined by open-source, web, and cloud technologies.
 	•	A generational shift is underway toward modern, high-performance languages like Go, Rust, and TypeScript.
