@@ -1,4 +1,4 @@
-# 📊 IBM Cognos Dashboards
+# 📊 Analysis if the Global Developer Landscape
 
 This folder contains the dashboards developed as part of the **IBM Data Analyst Capstone Project**.  
 The visualizations were created in **IBM Cognos Analytics** to explore insights from the Stack Overflow Developer Survey dataset.
